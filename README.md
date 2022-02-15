@@ -1,6 +1,8 @@
 ### Olá, meu nome é Alan de Oliveira, seja bem vindo ao meu perfil 😁
 
-- 🌱 Atualmente estou estudando sobre JavaScript
+- Atualmente estou cursando Análise e desenvolvimento de sistemas pela Estácio.
+- Estou estudando desenvolvimento Front end através de cursos complementares.
+- Estou a procura de Estágio.
 
 <div align="center">
   <a href="https://github.com/ImAlanOliveira">
